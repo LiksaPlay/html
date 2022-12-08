@@ -1,0 +1,47 @@
+.f2b {
+    background: cyan;
+    width: 900px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+    flex-wrap: wrap;
+
+}
+
+
+.ch2b {
+    background: plum;
+    width: 400px;
+    height: 125px;
+    border-radius: 25px;
+    display: flex;
+}
+
+.fa-sharp2b {
+    font-size: 50px;
+
+}
+
+.logo2b {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 25px;
+}
+
+
+.text2b1 {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.text2b {
+    color: red;
+    margin-bottom: 0;
+}
+
+.lorem2b {
+margin-top: 0;
+}

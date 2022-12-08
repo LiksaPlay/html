@@ -1,0 +1,20 @@
+.text {
+    color: darkblue;
+    text-align: center;
+    background: azure;
+}
+
+.text2 {
+    color: red;
+    background: aliceblue;
+
+}
+
+.text3 {
+    background: cyan;
+    text-align: center;
+}
+
+.img {
+    width: 200px;
+}
