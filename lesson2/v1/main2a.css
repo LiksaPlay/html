@@ -1,0 +1,39 @@
+.target {
+    background: #ffbe55;
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.targetmini {
+    background: #ff4a00;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+
+
+}
+
+.lorem {
+    color: black;
+    text-align: center;
+
+}
+
+.text4 {
+    text-align: center;
+    color: azure;
+
+}
+
+.buttom {
+    background: #0f2a78;
+    width: 120px;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 80px;
+
+}
